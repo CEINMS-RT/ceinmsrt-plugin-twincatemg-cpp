@@ -11,7 +11,7 @@ This plugin allows to feed EMG to CEINMS-RT from TwinCAT using the [ADS](https:/
 
 ## Citation
 
-If you find this repository useful in your research, please consider giving a star ⭐ and cite our [IEEE TBME paper](https://spiral.imperial.ac.uk/bitstream/10044/1/48309/2/durandau%202017.pdf) by using the following BibTeX entrys.
+If you find this repository useful in your research, please consider giving a star ⭐ and cite our [IEEE TBME paper](https://spiral.imperial.ac.uk/bitstream/10044/1/48309/2/durandau%202017.pdf) by using the following BibTeX entries:
 
 ```BibTeX
 @article{durandau2017robust,
