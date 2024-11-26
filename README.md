@@ -1,13 +1,13 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vHDQMUcbXRoh_hAcOvHvIXIQVk2dtlak3QBu-KU_PnGjMAwr6yHy9VdkSe04BuIF9_w&usqp=CAU" width=200>
+<img src="https://github.com/CEINMS-RT/ceinmsrt-core-cpp/blob/main/CEINMS-RT_V2_ICON.png" width="50%" alt="CEINMS-RT logo">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
-[CEINMS-rt]() installation and [use]().
-Plugin [installation]() and [compilation](). How to use a [plugin]().
+CEINMS-RT [installation](https://ceinms-docs.readthedocs.io/en/latest/Installation%20%5BWindows%5D.html) and [use](https://ceinms-docs.readthedocs.io/en/latest/Tutorial%20%5BWindows%5D%5BUbuntu%5D.html).
+Plugin [installation](#installation) and [compilation](https://ceinms-docs.readthedocs.io/en/latest/Compilation%20%5BWindows%5D.html). How to use a [plugin](#how-to-use-it).
 
-# PluginEMGTwincat
-This plugin allows to feed EMG to CEINMS from Twincat using the [ADS](https://www.beckhoff.com/en-ca/products/automation/twincat/tc1xxx-twincat-3-base/tc1000.html) communication.
+# TwinCAT EMG Plugin
 
+This plugin allows to feed EMG to CEINMS-RT from TwinCAT using the [ADS](https://www.beckhoff.com/en-ca/products/automation/twincat/tc1xxx-twincat-3-base/tc1000.html) communication.
 
 ## Citation
 
@@ -25,7 +25,3 @@ If you find this repository useful in your research, please consider giving a st
   publisher={IEEE}
 }
 ```
-
-## License
-
-CEINMS-rt and plugins are licensed under the [Apache License](LICENSE).
