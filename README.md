@@ -12,11 +12,11 @@ This plugin allows to feed EMG to CEINMS-RT from TwinCAT using the [ADS](https:/
 ## Installation
 
 Download and install [Twincat](https://www.beckhoff.com/en-ca/products/automation/twincat/).
-In the CEINME cmake enable the Plugin and then select the Twincat EMG plugin.
+In the CEINMS cmake enable the Plugin and then select the Twincat EMG plugin.
 
 ## Getting Started
 
-The twincat project can be found in the repo in the VS_2013_project/CEINMS_Twincat folder. This is an example and should be updated for your need (i.e the name of the name and number of EMG channel).
+The twincat project can be found in the repo in the VS_2013_project/CEINMS_Twincat folder. This is an example and should be updated for your need (i.e the name and number of EMG channel).
 Don't forget to updtae your XML files to use the good EMG channel and plugin.
 
 ## Citation
